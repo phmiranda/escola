@@ -1,0 +1,16 @@
+# COMENTÁRIO.
+.idea/
+.vscode/
+
+# COMENTÁRIO.
+src/main/resources/application.properties
+src/main/resources/bootstrap.properties
+
+# COMENTÁRIO.
+gen/
+target/
+out/
+
+# COMENTÁRIO.
+*.iml
+*.log
